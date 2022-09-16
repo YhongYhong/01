@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int Function01(int,int,int);
-
 int main()
 {
     int a,b,c;
