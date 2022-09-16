@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
     long long n,x,sum=10;
