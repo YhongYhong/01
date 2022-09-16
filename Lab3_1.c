@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
     long long n,x,sum1=0,sum2=0,sum3=0;
